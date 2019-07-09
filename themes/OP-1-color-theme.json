@@ -64,6 +64,13 @@
     "inputValidation.infoBorder": "#0f0e13",
     "inputValidation.warningBackground": "#0f0e13",
     "inputValidation.warningBorder": "#FE3D5F",
+	
+    // titleBar
+    "titleBar.activeBackground": "#0f0e13",
+    "titleBar.activeForeground": "#dedede",
+    "titleBar.inactiveBackground": "#0f0e13",
+    "titleBar.inactiveForeground": "#343d46",
+    "titleBar.border": "#0f0e13",
 
     // statusBar
     "statusBar.background": "#0f0e13",
